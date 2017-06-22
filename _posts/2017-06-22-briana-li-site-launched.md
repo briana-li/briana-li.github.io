@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Briana Li, Designer & Web Developer Launches Site"
+title: "Briana Li, Designer & Web Developer, Launches Site"
 date: 2014-04-30
 ---
 
